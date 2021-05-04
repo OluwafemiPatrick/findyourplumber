@@ -1,0 +1,57 @@
+name: findyourplumber
+description: Findyourplumber
+
+publish_to:
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.0
+  firebase_auth: ^0.14.0+5
+  cloud_firestore: ^0.12.9+5
+  provider: ^3.1.0
+
+  flutter_spinkit: "^4.1.2"
+  persistent_bottom_nav_bar: any
+  flutter_datetime_picker: ^1.4.0
+  dropdownfield: ^1.0.3
+
+  square_in_app_payments: ^1.6.0
+  commons: ^0.7.8+3
+  auto_size_text: ^2.1.0
+  flutter_speed_dial: ^1.2.5
+  overlay_support: ^1.0.5
+  search_place_autocomplete: ^0.1.1
+
+  image_picker: ^0.6.1+4
+  firebase_storage: ^3.1.3
+  firebase_database: ^3.1.3
+  fluttertoast: ^3.0.4
+
+  firebase_core: ^0.4.3+1
+  stream_chat_flutter: ^0.2.20+1
+  shared_preferences: ^0.5.4+9
+  random_string: ^2.1.0
+
+  intl: ^0.16.1
+  bubble: ^1.1.9+1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/

@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "75434514738",
+    "firebase_url": "https://find-you-plumber.firebaseio.com",
+    "project_id": "find-you-plumber",
+    "storage_bucket": "find-you-plumber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75434514738:android:59f14e480fd5d587795f2b",
+        "android_client_info": {
+          "package_name": "fyp2020.findyourplumber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75434514738-9lvibgc4l01krivbt7s1plhhr47d1rga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fyp2020.findyourplumber",
+            "certificate_hash": "96d64b126421780508d75332e697985edd8eab6d"
+          }
+        },
+        {
+          "client_id": "75434514738-hk6qb95m34mnms5pvenn9s7eutb05i85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fyp2020.findyourplumber",
+            "certificate_hash": "7142d1cff0b0e3b9679b1063b6151be7a8136f63"
+          }
+        },
+        {
+          "client_id": "75434514738-pd21dlchi6houqa3j9svpgk4t1nrbtbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUtVa4mxP4KtMQFybWp7P4qEsLbe-fTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75434514738-pd21dlchi6houqa3j9svpgk4t1nrbtbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
